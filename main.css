@@ -1,0 +1,73 @@
+header{
+    background-color: #98FB98;
+    width: 100%;
+    height: 200px;
+    }
+footer{
+    background-color: thistle;
+    width: 100%;
+    height: 200px;
+    }
+table{
+        width:100%;
+    }
+img{
+    width: 100px;
+}
+#Salsa{
+    background-color: darksalmon;
+    color: gold;
+}
+#Bachata{
+    background-color: teal;
+}
+#Dansniveau{
+    background-color: mediumvioletred;
+    color: Darkred;
+}
+#Merengue{
+    background-color: steelblue;
+    color: midnightblue;
+}
+#Antonio{
+    background-color: orangered;
+    color: darkorange;
+}
+#Rumba{
+    background-color: darkseagreen;
+}
+#Beginners{
+    background-color: crimson;
+    color: darkred;
+}
+#Zouk{
+    background-color: Blue;
+}
+#Klaas{
+    background-color: coral;
+    color: crimson;
+}
+#Mambo{
+    background-color: springgreen;
+}
+#Advanced{
+    background-color: lightpink;
+    color: Coral;
+}
+#Tango{
+    background-color: cornflowerblue;
+}
+#Piet{
+    background-color: Gold; 
+    color: crimson;
+}
+#salsachacha{
+    background-color: cyan;
+}
+#Intermediate{
+    background-color: lightsalmon;
+    color: tomato;
+}
+#Kizomba{
+    background-color: powderblue;
+}
